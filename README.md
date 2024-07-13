@@ -1,5 +1,5 @@
 # Principais nomes brasileiros
-Arquivo .json contendo os principais nomes brasileiros e o gênero, de acordo com o IBGE.
+Arquivo .json contendo os principais nomes brasileiros e seu gênero, de acordo com o IBGE.
 
 Os dados foram extraidos do site [Brasil.io](https://brasil.io/), que utiliza dados do IBGE.
 - Baixei um arquivo .csv gigante contendo várias métricas e nomes;
@@ -27,4 +27,4 @@ Ex:
   },
 ```
 
-Bom proveito no seu projeto.
+Bom proveito em seu projeto. :)
